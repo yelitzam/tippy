@@ -1,4 +1,4 @@
-# tippy
+# Tippy
 # Pre-work - Tippy
 
 *Tippy is a tip calculator application for iOS.
@@ -11,7 +11,7 @@ Time spent: 9 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 
@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/LrL7uXYpbUIylzJ1p6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy](https://giphy.com/).
 
 ## Notes
 
